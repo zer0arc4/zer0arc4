@@ -37,6 +37,18 @@
 
 ---
 
+## 🏆 Achievements & Badges  
+
+<div align="center">
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/zer0arc4.png)](https://tryhackme.com/p/zer0arc4)  
+[![Hack The Box](https://www.hackthebox.com/badge/image/2023966)](https://app.hackthebox.com/profile/2023966)
+
+
+</div>
+
+---
+
 ## 🔥 **Projects**  
 
 ### 🔐 [Cryptographic Hash Generator](https://github.com/zer0acr4/Cryptographic-Hash-Generator)  
