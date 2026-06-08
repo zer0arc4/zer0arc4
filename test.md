@@ -50,33 +50,30 @@
 
 ### Security Tools
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?logo=burpsuite&logoColor=white&style=for-the-badge)
-![Caido](https://img.shields.io/badge/Caido-5E4AE3?logo=caido&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-214478?logo=nmap&logoColor=white&style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge)
+![Caido](https://img.shields.io/badge/Caido-6C63FF?logo=caido&logoColor=white&style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?logo=nmap&logoColor=white&style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-
-### Additional Tools
-
-- Metasploit Framework
-- SQLMap
-- John the Ripper
-- OWASP ZAP
-- Postman
-- Git & GitHub
-- VirtualBox
+![Metasploit_Framework](https://img.shields.io/badge/Metasploit_Framework-2596CD?logo=metasploit&logoColor=white&style=for-the-badge)
+![OWASP_ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?logo=owasp&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ### Operating Systems
 
-- Kali Linux
-- Ubuntu
-- Windows
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+
+
 
 ### Networking
 
-- TCP/IP
-- OSI Model
-- Subnetting
-- Network Fundamentals
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A66C2?logo=cisco&logoColor=white&style=for-the-badge)
+![OSI_Model](https://img.shields.io/badge/OSI_Model-1E3A8A?logo=openlayers&logoColor=white&style=for-the-badge)
+![Subnetting](https://img.shields.io/badge/Subnetting-16A34A?logo=netlify&logoColor=white&style=for-the-badge)
+![Network_Fundamentals](https://img.shields.io/badge/Network_Fundamentals-0284C7?logo=cisco&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -140,11 +137,12 @@
 
 ### 📝 Security Labs & Writeups
 
-- Hack The Box Machines
-- TryHackMe Rooms
-- Privilege Escalation Labs
-- Vulnerable VM Assessments
-- Active Directory Practice Labs
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge)](https://github.com/zer0arc4/cybersec-writeups/tree/main/TryHackMe)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black&style=for-the-badge)](https://github.com/zer0arc4/cybersec-writeups/tree/main/HackTheBox)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://github.com/zer0arc4/cybersec-writeups/tree/main/OverTheWire)
+[![VulNyx](https://img.shields.io/badge/VulNyx-8B0000?logo=hackthebox&logoColor=white&style=for-the-badge)](https://github.com/zer0arc4/cybersec-writeups/tree/main/VulNyx)
+[![OWASP Juice Shop](https://img.shields.io/badge/OWASP_Juice_Shop-F47B20?logo=owasp&logoColor=white&style=for-the-badge)](https://github.com/zer0arc4/cybersec-writeups/tree/main/OWASP-Juice-Shop)
+[![Root-Me](https://img.shields.io/badge/Root--Me-8B0000?logo=ghost&logoColor=white&style=for-the-badge)](https://github.com/zer0arc4/cybersec-writeups/tree/main/Root-Me)
 
 ---
 
@@ -204,11 +202,12 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zer0arc4&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0arc4&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zer0arc4&layout=compact&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0arc4&theme=radical&hide_border=true)
+
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zer0arc4&show_icons=true&theme=radical)
 
 ---
 
@@ -228,14 +227,10 @@
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://zer0arc4.github.io)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alakati-rithesh-chandra)
-
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Zer0Arc4)
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritheshchandraalakati@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://zer0arc4.github.io)
 ---
 
 ## 🤝 Open to Collaborate
