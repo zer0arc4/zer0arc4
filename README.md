@@ -211,12 +211,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zer0arc4&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌍 Languages
 
 - English
