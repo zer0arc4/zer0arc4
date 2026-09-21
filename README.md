@@ -202,12 +202,12 @@
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zer0arc4&layout=compact&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zer0arc4&theme=radical&hide_border=true)
+![GitHub Stats}](https://github-stats-extended.vercel.app/api?username=zer0arc4&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=zer0arc4&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zer0arc4&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=zer0arc4&layout=compact&theme=radical)
 
 ---
 
